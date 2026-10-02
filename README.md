@@ -15,8 +15,8 @@ This used Github, but other projects may use something like Python or SQL
 
 ## Files used
 
-Its useful to show the datafiles you used, incase someone wants to check what you used
-if you think their names, people could even try to run your code!
+Its useful to show the datafiles you used, incase someone wants to check what you used  
+if you link their names, people could even try to run your code!
 
 ## How to Run
 
