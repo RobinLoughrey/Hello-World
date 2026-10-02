@@ -24,4 +24,5 @@ A good explanation of what you did and how you did it shows critical thinking an
 
 ## Additional Information
 
-Other stuff.  Maybe people you worked with? Idk
+Other stuff.  Maybe people you worked with? Idk  
+__this could be very important if its niche, like my normal projects__
